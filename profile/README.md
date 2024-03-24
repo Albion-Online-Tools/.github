@@ -18,6 +18,6 @@ Welcome to the official GitHub repository of Albion Online Tools, your go-to res
 
 ## Community Support:
 
-Need help or want to get involved? Join our Discord community [here](#) and connect with fellow Albion Online enthusiasts.
+Need help or want to get involved? Join our Discord community [here](https://discord.com/invite/albion-online-tools-1095372949718048771) and connect with fellow Albion Online enthusiasts.
 
 **Albion Online Tools - Enhancing Your Adventure, One Tool at a Time.**
